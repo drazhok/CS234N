@@ -1,0 +1,27 @@
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerTests\bin\Debug\CustomerTests.exe.config
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerTests\bin\Debug\CustomerTests.exe
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerTests\bin\Debug\CustomerTests.pdb
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerTests\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerTests\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.csprojResolveAssemblyReference.cache
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.exe
+C:\Courses\CS233CSharp\Demos\Classes\ClassesDemo\CustomerMaintenanceStart\CustomerTests\obj\Debug\CustomerTests.pdb
+C:\Courses\CS234CSharp\Demos\Lab 1\CustomerMaintenance\CustomerTests\bin\Debug\CustomerTests.exe.config
+C:\Courses\CS234CSharp\Demos\Lab 1\CustomerMaintenance\CustomerTests\obj\Debug\CustomerTests.exe
+C:\Courses\CS234CSharp\Demos\Lab 1\CustomerMaintenance\CustomerTests\obj\Debug\CustomerTests.pdb
+C:\Courses\CS234CSharp\Demos\Lab 1\CustomerMaintenance\CustomerTests\obj\Debug\CustomerTests.csprojResolveAssemblyReference.cache
+C:\Courses\CS234CSharp\Demos\Lab 1\CustomerMaintenance\CustomerTests\bin\Debug\CustomerTests.exe
+C:\Courses\CS234CSharp\Demos\Lab 1\CustomerMaintenance\CustomerTests\bin\Debug\CustomerTests.pdb
+C:\Courses\CS234CSharp\Demos\Lab 1\CustomerMaintenance\CustomerTests\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Courses\CS234CSharp\Demos\Lab 1\CustomerMaintenance\CustomerTests\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Courses\CS234CSharp\Demos\Lab 2\CustomerMaintenance\CustomerTests\bin\Debug\CustomerTests.exe.config
+C:\Courses\CS234CSharp\Demos\Lab 2\CustomerMaintenance\CustomerTests\obj\Debug\CustomerTests.exe
+C:\Courses\CS234CSharp\Demos\Lab 2\CustomerMaintenance\CustomerTests\obj\Debug\CustomerTests.pdb
+C:\Courses\CS234CSharp\Demos\Lab 2\CustomerMaintenanceInterfaces\CustomerTests\bin\Debug\CustomerTests.exe.config
+C:\Courses\CS234CSharp\Demos\Lab 2\CustomerMaintenanceInterfaces\CustomerTests\obj\Debug\CustomerTests.exe
+C:\Courses\CS234CSharp\Demos\Lab 2\CustomerMaintenanceInterfaces\CustomerTests\obj\Debug\CustomerTests.pdb
+C:\Courses\CS234CSharp\Demos\Lab 2\CustomerMaintenanceInterfaces\CustomerTests\obj\Debug\CustomerTests.csprojResolveAssemblyReference.cache
+C:\Courses\CS234CSharp\Demos\Lab 2\CustomerMaintenanceInterfaces\CustomerTests\bin\Debug\CustomerTests.exe
+C:\Courses\CS234CSharp\Demos\Lab 2\CustomerMaintenanceInterfaces\CustomerTests\bin\Debug\CustomerTests.pdb
+C:\Courses\CS234CSharp\Demos\Lab 2\CustomerMaintenanceInterfaces\CustomerTests\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Courses\CS234CSharp\Demos\Lab 2\CustomerMaintenanceInterfaces\CustomerTests\bin\Debug\CustomerMaintenanceClasses.pdb
