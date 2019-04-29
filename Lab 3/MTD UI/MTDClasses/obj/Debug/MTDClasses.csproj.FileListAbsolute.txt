@@ -1,0 +1,18 @@
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDClasses\obj\Debug\MTDClasses.csprojAssemblyReference.cache
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDClasses\obj\Debug\MTDClasses.csproj.CoreCompileInputs.cache
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDClasses\bin\Debug\MTDClasses.dll
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDClasses\bin\Debug\MTDClasses.pdb
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDClasses\obj\Debug\MTDClasses.dll
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDClasses\obj\Debug\MTDClasses.pdb
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDClasses\obj\Debug\MTDClasses.csprojAssemblyReference.cache
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDClasses\obj\Debug\MTDClasses.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDClasses\obj\Debug\MTDClasses.dll
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDClasses\obj\Debug\MTDClasses.pdb
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDClasses\bin\Debug\MTDClasses.dll
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDClasses\bin\Debug\MTDClasses.pdb
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDClasses\bin\Debug\MTDClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDClasses\bin\Debug\MTDClasses.pdb
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDClasses\obj\Debug\MTDClasses.csprojAssemblyReference.cache
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDClasses\obj\Debug\MTDClasses.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDClasses\obj\Debug\MTDClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDClasses\obj\Debug\MTDClasses.pdb

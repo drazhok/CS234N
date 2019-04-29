@@ -1,0 +1,11 @@
+C:\Repositories\GitHub\CS234N\Lab 2\Events\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Repositories\GitHub\CS234N\Lab 2\Events\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Repositories\GitHub\CS234N\Lab 2\Events\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Repositories\GitHub\CS234N\Lab 2\Events\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojAssemblyReference.cache
+C:\Repositories\GitHub\CS234N\Lab 2\Events\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Repositories\GitHub\CS234N\Lab 2\Events\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Repositories\GitHub\CS234N\Lab 2\Events\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Repositories\GitHub\CS234N\Lab 2\Events\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Repositories\GitHub\CS234N\Lab 2\Events\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\CS234N\Lab 2\Events\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Repositories\GitHub\CS234N\Lab 2\Events\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb

@@ -1,0 +1,36 @@
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\obj\Debug\MTDTests.csprojAssemblyReference.cache
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\obj\Debug\MTDTests.csproj.CoreCompileInputs.cache
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\bin\Debug\MTDTests.dll
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\bin\Debug\MTDTests.pdb
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\bin\Debug\MTDClasses.dll
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\bin\Debug\nunit.framework.dll
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\bin\Debug\MTDClasses.pdb
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\bin\Debug\nunit.framework.pdb
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\bin\Debug\nunit.framework.xml
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\obj\Debug\MTDTests.csproj.CopyComplete
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\obj\Debug\MTDTests.dll
+C:\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\obj\Debug\MTDTests.pdb
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\obj\Debug\MTDTests.csprojAssemblyReference.cache
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\obj\Debug\MTDTests.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\obj\Debug\MTDTests.dll
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\obj\Debug\MTDTests.pdb
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\bin\Debug\MTDTests.dll
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\bin\Debug\MTDTests.pdb
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\bin\Debug\MTDClasses.dll
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\bin\Debug\nunit.framework.dll
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\bin\Debug\MTDClasses.pdb
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\bin\Debug\nunit.framework.pdb
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\bin\Debug\nunit.framework.xml
+C:\Repositories\GitHub\mexicantraindominos-drazhok\MTD\MTDTests\obj\Debug\MTDTests.csproj.CopyComplete
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDTests\bin\Debug\MTDTests.dll
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDTests\bin\Debug\MTDTests.pdb
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDTests\bin\Debug\MTDClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDTests\bin\Debug\nunit.framework.dll
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDTests\bin\Debug\MTDClasses.pdb
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDTests\bin\Debug\nunit.framework.pdb
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDTests\bin\Debug\nunit.framework.xml
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDTests\obj\Debug\MTDTests.csprojAssemblyReference.cache
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDTests\obj\Debug\MTDTests.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDTests\obj\Debug\MTDTests.csproj.CopyComplete
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDTests\obj\Debug\MTDTests.dll
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDTests\obj\Debug\MTDTests.pdb

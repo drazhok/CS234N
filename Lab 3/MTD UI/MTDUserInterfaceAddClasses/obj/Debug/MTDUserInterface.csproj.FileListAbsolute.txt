@@ -1,0 +1,13 @@
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.csprojAssemblyReference.cache
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.PlayMTDRightClick.resources
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.Properties.Resources.resources
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.csproj.GenerateResource.cache
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDUserInterfaceAddClasses\bin\Debug\MTDUserInterface.exe.config
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDUserInterfaceAddClasses\bin\Debug\MTDUserInterface.exe
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDUserInterfaceAddClasses\bin\Debug\MTDUserInterface.pdb
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDUserInterfaceAddClasses\bin\Debug\MTDClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDUserInterfaceAddClasses\bin\Debug\MTDClasses.pdb
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.csproj.CopyComplete
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.exe
+C:\Repositories\GitHub\CS234N\Lab 3\MTD UI\MTDUserInterfaceAddClasses\obj\Debug\MTDUserInterface.pdb

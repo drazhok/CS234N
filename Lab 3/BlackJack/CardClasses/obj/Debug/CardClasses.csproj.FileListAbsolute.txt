@@ -1,0 +1,12 @@
+C:\Repositories\GitHub\blackjack-drazhok\BlackJack\CardClasses\obj\Debug\CardClasses.csprojAssemblyReference.cache
+C:\Repositories\GitHub\blackjack-drazhok\BlackJack\CardClasses\obj\Debug\CardClasses.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\blackjack-drazhok\BlackJack\CardClasses\bin\Debug\CardClasses.dll
+C:\Repositories\GitHub\blackjack-drazhok\BlackJack\CardClasses\bin\Debug\CardClasses.pdb
+C:\Repositories\GitHub\blackjack-drazhok\BlackJack\CardClasses\obj\Debug\CardClasses.dll
+C:\Repositories\GitHub\blackjack-drazhok\BlackJack\CardClasses\obj\Debug\CardClasses.pdb
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardClasses\bin\Debug\CardClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardClasses\bin\Debug\CardClasses.pdb
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardClasses\obj\Debug\CardClasses.csprojAssemblyReference.cache
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardClasses\obj\Debug\CardClasses.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardClasses\obj\Debug\CardClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardClasses\obj\Debug\CardClasses.pdb

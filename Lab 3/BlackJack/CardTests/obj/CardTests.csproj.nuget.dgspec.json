@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Repositories\\GitHub\\CS234N\\Lab 3\\BlackJack\\CardTests\\CardTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Repositories\\GitHub\\CS234N\\Lab 3\\BlackJack\\CardClasses\\CardClasses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repositories\\GitHub\\CS234N\\Lab 3\\BlackJack\\CardClasses\\CardClasses.csproj",
+        "projectName": "CardClasses",
+        "projectPath": "C:\\Repositories\\GitHub\\CS234N\\Lab 3\\BlackJack\\CardClasses\\CardClasses.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Repositories\\GitHub\\CS234N\\Lab 3\\BlackJack\\CardTests\\CardTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repositories\\GitHub\\CS234N\\Lab 3\\BlackJack\\CardTests\\CardTests.csproj",
+        "projectName": "CardTests",
+        "projectPath": "C:\\Repositories\\GitHub\\CS234N\\Lab 3\\BlackJack\\CardTests\\CardTests.csproj",
+        "packagesPath": "C:\\Users\\poopdick\\.nuget\\packages\\",
+        "outputPath": "C:\\Repositories\\GitHub\\CS234N\\Lab 3\\BlackJack\\CardTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\poopdick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Repositories\\GitHub\\CS234N\\Lab 3\\BlackJack\\CardClasses\\CardClasses.csproj": {
+                "projectPath": "C:\\Repositories\\GitHub\\CS234N\\Lab 3\\BlackJack\\CardClasses\\CardClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

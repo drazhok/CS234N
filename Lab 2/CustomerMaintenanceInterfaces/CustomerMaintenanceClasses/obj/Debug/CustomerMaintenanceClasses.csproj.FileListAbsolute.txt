@@ -1,0 +1,12 @@
+C:\Repositories\GitHub\CS234N\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Repositories\GitHub\CS234N\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Repositories\GitHub\CS234N\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csprojAssemblyReference.cache
+C:\Repositories\GitHub\CS234N\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\CS234N\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.dll
+C:\Repositories\GitHub\CS234N\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.pdb
+C:\Repositories\GitHub\CS234N\Lab 2\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 2\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\bin\Debug\CustomerMaintenanceClasses.pdb
+C:\Repositories\GitHub\CS234N\Lab 2\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csprojAssemblyReference.cache
+C:\Repositories\GitHub\CS234N\Lab 2\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\CS234N\Lab 2\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 2\CustomerMaintenanceInterfaces\CustomerMaintenanceClasses\obj\Debug\CustomerMaintenanceClasses.pdb
