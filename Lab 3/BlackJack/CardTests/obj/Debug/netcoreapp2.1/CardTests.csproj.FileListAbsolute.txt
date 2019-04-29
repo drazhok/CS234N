@@ -16,3 +16,21 @@ C:\Repositories\GitHub\blackjack-drazhok\BlackJack\CardTests\obj\Debug\netcoreap
 C:\Repositories\GitHub\blackjack-drazhok\BlackJack\CardTests\obj\Debug\netcoreapp2.1\CardTests.csproj.CopyComplete
 C:\Repositories\GitHub\blackjack-drazhok\BlackJack\CardTests\obj\Debug\netcoreapp2.1\CardTests.dll
 C:\Repositories\GitHub\blackjack-drazhok\BlackJack\CardTests\obj\Debug\netcoreapp2.1\CardTests.pdb
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\bin\Debug\netcoreapp2.1\CardTests.deps.json
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\bin\Debug\netcoreapp2.1\CardTests.runtimeconfig.json
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\bin\Debug\netcoreapp2.1\CardTests.runtimeconfig.dev.json
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\bin\Debug\netcoreapp2.1\CardTests.dll
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\bin\Debug\netcoreapp2.1\CardTests.pdb
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\bin\Debug\netcoreapp2.1\CardClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\bin\Debug\netcoreapp2.1\CardClasses.pdb
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\obj\Debug\netcoreapp2.1\CardTests.csprojAssemblyReference.cache
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\obj\Debug\netcoreapp2.1\CardTests.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\obj\Debug\netcoreapp2.1\CardTests.AssemblyInfoInputs.cache
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\obj\Debug\netcoreapp2.1\CardTests.AssemblyInfo.cs
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\obj\Debug\netcoreapp2.1\CardTests.csproj.CopyComplete
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\obj\Debug\netcoreapp2.1\CardTests.dll
+C:\Repositories\GitHub\CS234N\Lab 3\BlackJack\CardTests\obj\Debug\netcoreapp2.1\CardTests.pdb

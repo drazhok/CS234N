@@ -33,19 +33,69 @@ namespace BlackJack
         }
 
         #region Methods
+        private void Reset()
+        {
+            hitButton.Enabled = true;
+            standButton.Enabled = true;
+            playerWinLabel.Visible = false;
+            dealerWinLabel.Visible = false;
+            playAgainButton.Enabled = false;
 
-        public void HideAllCards()
+            HideAllCards();
+
+            cards.Shuffle();
+
+            Card c1 = cards.Deal();
+            Card c2 = cards.Deal();
+            Card c3 = cards.Deal();
+            Card c4 = cards.Deal();
+
+            playerHand.AddCard(c1);
+            Show(card6, c1);
+
+            dealerHand.AddCard(c2);
+            Show(card1, c2);
+
+            playerHand.AddCard(c3);
+            Show(card7, c3);
+
+            dealerHand.AddCard(c4);
+            Show(card2, c4);
+        }
+
+        private bool CheckWinner()
+        {
+            if (playerHand.IsBusted)
+                return false;
+
+            else
+            {
+                if (!dealerHand.IsBusted)
+                {
+                    if (playerHand.Score > dealerHand.Score)
+                        return true;
+
+                    else
+                        return false;
+                }
+
+                else
+                    return true;
+            }
+        }
+
+        private void HideAllCards()
         {
             for (int i = 1; i <= 10; i++)
                 this.Controls["card" + i].Visible = false;
         }
 
-        public void Show(PictureBox p, Card c)
+        private void Show(PictureBox p, Card c)
         {
             p.Image = Image.FromFile(System.Environment.CurrentDirectory + "\\Cards\\" + c.FileName);
         }
 
-        public void ShowBack(PictureBox p, Card c)
+        private void ShowBack(PictureBox p, Card c)
         {
             p.Image = Image.FromFile(System.Environment.CurrentDirectory + "\\Cards\\black_back.jpg");
         }
@@ -53,7 +103,7 @@ namespace BlackJack
 
         private void frmBoard_Load(object sender, EventArgs e)
         {
-            HideAllCards();
+            Reset();
 
             hitButton.Enabled = true;
             standButton.Enabled = true;
@@ -66,7 +116,20 @@ namespace BlackJack
         {
             playerHand.AddCard(cards.Deal());
 
-
+            if (CheckWinner())
+            {
+                playerWinLabel.Visible = true;
+                standButton.Enabled = false;
+                hitButton.Enabled = false;
+                playAgainButton.Enabled = true;
+            }
+            else
+            {
+                dealerWinLabel.Visible = true;
+                standButton.Enabled = false;
+                hitButton.Enabled = false;
+                playAgainButton.Enabled = true;
+            }
         }
 
         private void standButton_Click(object sender, EventArgs e)
@@ -75,7 +138,7 @@ namespace BlackJack
 
         private void playAgainButton_Click(object sender, EventArgs e)
         {
-            
+            Reset();
         }
     }
 }
