@@ -42,7 +42,7 @@ namespace CustomerMaintenance
         {
             try
             {
-                //customer = CustomerDB.GetCustomer(customerID);
+                customer = CustomerDB.GetCustomer(customerID);
             }
             catch (Exception ex)
             {

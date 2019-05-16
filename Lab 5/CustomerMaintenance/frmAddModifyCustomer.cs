@@ -40,7 +40,7 @@ namespace CustomerMaintenance
             List<State> states = new List<State>();
             try
             {
-                //states = StateDB.GetStates();
+                states = StateDB.GetStates();
                 cboStates.DataSource = states;
                 cboStates.DisplayMember = "StateName";
                 cboStates.ValueMember = "StateCode";
