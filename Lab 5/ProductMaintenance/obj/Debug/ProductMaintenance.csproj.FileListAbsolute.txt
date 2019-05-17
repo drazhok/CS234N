@@ -1,0 +1,15 @@
+C:\Repositories\GitHub\CS234N\Lab 5\ProductMaintenance\bin\Debug\ProductMaintenance.exe.config
+C:\Repositories\GitHub\CS234N\Lab 5\ProductMaintenance\bin\Debug\ProductMaintenance.exe
+C:\Repositories\GitHub\CS234N\Lab 5\ProductMaintenance\bin\Debug\ProductMaintenance.pdb
+C:\Repositories\GitHub\CS234N\Lab 5\ProductMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Repositories\GitHub\CS234N\Lab 5\ProductMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Repositories\GitHub\CS234N\Lab 5\ProductMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Repositories\GitHub\CS234N\Lab 5\ProductMaintenance\obj\Debug\ProductMaintenance.csprojAssemblyReference.cache
+C:\Repositories\GitHub\CS234N\Lab 5\ProductMaintenance\obj\Debug\ProductMaintenance.frmAddModifyProduct.resources
+C:\Repositories\GitHub\CS234N\Lab 5\ProductMaintenance\obj\Debug\ProductMaintenance.frmProductMaintenance.resources
+C:\Repositories\GitHub\CS234N\Lab 5\ProductMaintenance\obj\Debug\ProductMaintenance.Properties.Resources.resources
+C:\Repositories\GitHub\CS234N\Lab 5\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.GenerateResource.cache
+C:\Repositories\GitHub\CS234N\Lab 5\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\CS234N\Lab 5\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.CopyComplete
+C:\Repositories\GitHub\CS234N\Lab 5\ProductMaintenance\obj\Debug\ProductMaintenance.exe
+C:\Repositories\GitHub\CS234N\Lab 5\ProductMaintenance\obj\Debug\ProductMaintenance.pdb

@@ -7,7 +7,7 @@ using System.Data.SqlClient;
 
 namespace CustomerMaintenance
 {
-    class MMABooksDB
+    public class MMABooksDB
     {
         public static SqlConnection GetConnection()
         {
