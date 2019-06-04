@@ -1,0 +1,9 @@
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventProps\bin\Debug\EventPropsClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventProps\bin\Debug\EventPropsClasses.pdb
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventProps\bin\Debug\ToolsCSharp.dll
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventProps\bin\Debug\ToolsCSharp.pdb
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventProps\obj\Debug\EventPropsClasses.csprojAssemblyReference.cache
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventProps\obj\Debug\EventPropsClasses.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventProps\obj\Debug\EventPropsClasses.csproj.CopyComplete
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventProps\obj\Debug\EventPropsClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventProps\obj\Debug\EventPropsClasses.pdb

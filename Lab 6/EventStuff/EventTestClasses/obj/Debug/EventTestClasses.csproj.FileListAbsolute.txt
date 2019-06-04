@@ -1,0 +1,17 @@
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\obj\Debug\EventTestClasses.csprojAssemblyReference.cache
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\obj\Debug\EventTestClasses.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\bin\Debug\EventTestClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\bin\Debug\EventTestClasses.pdb
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\bin\Debug\EventClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\bin\Debug\EventDBClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\bin\Debug\EventPropsClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\bin\Debug\nunit.framework.dll
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\bin\Debug\ToolsCSharp.dll
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\bin\Debug\EventClasses.pdb
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\bin\Debug\EventDBClasses.pdb
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\bin\Debug\EventPropsClasses.pdb
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\bin\Debug\ToolsCSharp.pdb
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\bin\Debug\nunit.framework.xml
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\obj\Debug\EventTestClasses.csproj.CopyComplete
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\obj\Debug\EventTestClasses.dll
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\EventTestClasses\obj\Debug\EventTestClasses.pdb

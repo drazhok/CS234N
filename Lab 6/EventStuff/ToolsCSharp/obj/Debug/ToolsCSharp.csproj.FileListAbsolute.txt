@@ -1,0 +1,6 @@
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\ToolsCSharp\bin\Debug\ToolsCSharp.dll
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\ToolsCSharp\bin\Debug\ToolsCSharp.pdb
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\ToolsCSharp\obj\Debug\ToolsCSharp.csprojAssemblyReference.cache
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\ToolsCSharp\obj\Debug\ToolsCSharp.csproj.CoreCompileInputs.cache
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\ToolsCSharp\obj\Debug\ToolsCSharp.dll
+C:\Repositories\GitHub\CS234N\Lab 6\EventStuff\ToolsCSharp\obj\Debug\ToolsCSharp.pdb
